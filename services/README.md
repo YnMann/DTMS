@@ -2,6 +2,9 @@
 
 This directory contains microservices constituting the Distributed Task Management System (DTMS).
 
+## SSO Service
+A microservice responsible for auth 
+
 ## Task Service
 
 A microservice responsible for task management. It provides functionality for creating, editing, and monitoring tasks.
