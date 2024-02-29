@@ -1,0 +1,10 @@
+env: "local" #dev, prod
+token_ttl: 1h
+grpc:
+  port: 44044
+  timeout: 10h
+mongo:
+  uri: "mongodb://localhost:27017"
+  name: "testdb"
+  collections:
+    users: "users"
